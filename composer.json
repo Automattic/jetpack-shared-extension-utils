@@ -16,15 +16,15 @@
 			"pnpx nyc --report-dir=\"$COVERAGE_DIR\" pnpm run test"
 		]
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../../packages/*",
-			"options": {
-				"monorepo": true
-			}
-		}
-	],
+	"repositories": [],
 	"minimum-stability": "dev",
-	"prefer-stable": true
+	"prefer-stable": true,
+	"extra": {
+		"autotagger": true,
+		"npmjs-autopublish": true,
+		"mirror-repo": "Automattic/jetpack-shared-extension-utils",
+		"changelogger": {
+			"link-template": "https://github.com/Automattic/jetpack-shared-extension-utils/compare/${old}...${new}"
+		}
+	}
 }
