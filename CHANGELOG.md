@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Created the shared-extension-utils library
 - Moved get-jetpack-data file from jetpack plugin shared extensions
 - Moved get-jetpack-extension-availability file from jetpack plugin shared extensions
+- Moved get-site-fragment file from jetpack plugin shared extensions
 - Moved site-type-utils file from jetpack plugin shared extensions
 
 ### Changed
