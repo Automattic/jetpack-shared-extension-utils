@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Created the shared-extension-utils library
+- Moved get-jetpack-data file from jetpack plugin shared extensions
 
 ### Changed
 - Core: prepare utility for release
