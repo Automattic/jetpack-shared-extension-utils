@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Moved plan-utils.js file from plugin/jetpack to shared-extension-utils. Updated import references for the same
 
+### Changed
+- Updated package dependencies
+
 ## [0.2.0] - 2022-03-15
 ### Added
 - Moved with-has-warning-is-interactive-class-names folder from jetpack plugin shared extensions
