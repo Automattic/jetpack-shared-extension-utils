@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.4.8-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.4.8] - 2022-06-08
 ### Changed
-- Reorder JS imports for `import/order` eslint rule.
+- Reorder JS imports for `import/order` eslint rule. [#24601]
 
 ## [0.4.7] - 2022-05-31
 ### Changed
@@ -76,7 +73,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.4.8-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.7...0.4.8-alpha
+[0.4.8]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.7...0.4.8
 [0.4.7]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.6...0.4.7
 [0.4.6]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.5...0.4.6
 [0.4.5]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.4...0.4.5
