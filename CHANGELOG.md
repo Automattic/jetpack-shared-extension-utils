@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.4.10-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.4.10] - 2022-06-21
 ### Changed
-- Renaming `master` references to `trunk`
+- Renaming `master` references to `trunk` [#24712]
 
 ## [0.4.9] - 2022-06-14
 ### Changed
@@ -84,7 +81,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.4.10-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.9...0.4.10-alpha
+[0.4.10]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.9...0.4.10
 [0.4.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.8...0.4.9
 [0.4.8]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.7...0.4.8
 [0.4.7]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.4.6...0.4.7
