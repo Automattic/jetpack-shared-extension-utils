@@ -5,13 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.8.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
-### Added
-- Add additional methods to useAnalytics hook, allow for view event by passing initial props
-
 ## [0.7.0] - 2022-12-19
 ### Added
 - Add new Analytics wrapper hook. [#27937]
@@ -156,7 +149,6 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.8.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.7.0...0.8.0-alpha
 [0.7.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.6.10...0.7.0
 [0.6.10]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.6.9...0.6.10
 [0.6.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.6.8...0.6.9
