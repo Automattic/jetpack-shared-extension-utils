@@ -8,7 +8,11 @@
 		"yoast/phpunit-polyfills": "1.0.4",
 		"automattic/jetpack-changelogger": "^3.3.2"
 	},
-	"scripts": {},
+	"scripts": {
+		"test-js": [
+			"pnpm run test"
+		]
+	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
