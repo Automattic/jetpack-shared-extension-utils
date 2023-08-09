@@ -5,15 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.11.0-alpha] - unreleased
+## [0.11.1-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
-### Added
-- Add shared block editor logo component.
-
 ### Changed
 - Updated package dependencies.
+
+## [0.11.0] - 2023-08-07
+### Added
+- Add shared block editor logo component. [#32257]
 
 ## [0.10.9] - 2023-07-17
 ### Changed
@@ -231,7 +232,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.11.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.10.9...0.11.0-alpha
+[0.11.1-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.11.0...0.11.1-alpha
+[0.11.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.10.9...0.11.0
 [0.10.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.10.8...0.10.9
 [0.10.8]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.10.7...0.10.8
 [0.10.7]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.10.6...0.10.7
