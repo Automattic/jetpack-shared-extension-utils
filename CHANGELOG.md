@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Use the new method to render Connection initial state.
 
+### Fixed
+- Add a stub module to avoid the native mobile editor importing incompatible web modules.
+
 ## [0.11.1] - 2023-08-09
 ### Changed
 - Updated package dependencies. [#32166]
