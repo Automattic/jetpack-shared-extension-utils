@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.11.2-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Use the new method to render Connection initial state.
+
+### Fixed
+- Add a stub module to avoid the native mobile editor importing incompatible web modules.
+
 ## [0.11.1] - 2023-08-09
 ### Changed
 - Updated package dependencies. [#32166]
@@ -229,6 +239,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Core: prepare utility for release
 
+[0.11.2-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.11.1...0.11.2-alpha
 [0.11.1]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.11.0...0.11.1
 [0.11.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.10.9...0.11.0
 [0.10.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.10.8...0.10.9
