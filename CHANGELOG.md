@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Fill jetpack modules data for initializing store
 
+### Changed
+- In modules store we make module updating  more precise
+
 ## [0.13.5] - 2023-12-19
 ### Changed
 - Updated package dependencies. [#34694]
