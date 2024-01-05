@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - In modules_store we remove unused logic and cover store with tests
 
+### Changed
+- Updated use-module-status hook to use module_status redux store
+
 ## [0.13.7] - 2024-01-04
 ### Changed
 - Updated package dependencies. [#34815] [#34816]
