@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.14.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.14.0] - 2024-01-29
 ### Added
-- Adds new getJetpackBlocksVariation function
+- Adds new getJetpackBlocksVariation function [#34179]
 
 ## [0.13.10] - 2024-01-18
 ### Changed
@@ -335,7 +332,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.14.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.13.10...0.14.0-alpha
+[0.14.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.13.10...0.14.0
 [0.13.10]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.13.9...0.13.10
 [0.13.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.13.8...0.13.9
 [0.13.8]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.13.7...0.13.8
