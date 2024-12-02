@@ -12,8 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Changed text domain from 'jetpack' to 'jetpack-shared-extension-utils'.
 
+## [0.15.20] - 2024-12-02
 ### Fixed
-- Shared Extension Utils: fix wrong output type on use-module-status hook
+- Fix wrong output type on use-module-status hook. [#40364]
 
 ## [0.15.19] - 2024-11-26
 ### Changed
@@ -504,7 +505,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.16.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.15.19...0.16.0-alpha
+[0.16.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.15.20...0.16.0-alpha
+[0.15.20]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.15.19...0.15.20
 [0.15.19]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.15.18...0.15.19
 [0.15.18]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.15.17...0.15.18
 [0.15.17]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.15.16...0.15.17
