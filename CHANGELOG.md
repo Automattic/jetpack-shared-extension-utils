@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed text domain from 'jetpack' to 'jetpack-shared-extension-utils'.
+- Updated package dependencies.
 
 ## [0.15.20] - 2024-12-02
 ### Fixed
