@@ -5,13 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.17.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.17.0] - 2025-02-05
 ### Changed
-- External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils
-- Updated package dependencies.
+- External Media: Move the GooglePhotosMedia, OpenverseMedia, PexelsMedia to @automattic/jetpack-shared-extension-utils [#41078]
+- Updated package dependencies. [#41491] [#41577]
 
 ## [0.16.5] - 2025-01-27
 ### Changed
@@ -531,7 +528,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.17.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.16.5...0.17.0-alpha
+[0.17.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.16.5...0.17.0
 [0.16.5]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.16.4...0.16.5
 [0.16.4]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.16.3...0.16.4
 [0.16.3]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.16.2...0.16.3
