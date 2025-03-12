@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added shouldUseInternalLinks()
 
+### Changed
+- Update package dependencies.
+
 ## [0.17.5] - 2025-03-10
 ### Added
 - Social: Move useUpgradeFlow from Jetpack plugin to the shared package. [#41836]
