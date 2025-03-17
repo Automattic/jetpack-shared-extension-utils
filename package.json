@@ -22,7 +22,7 @@
 		"@automattic/jetpack-analytics": "^0.1.36",
 		"@automattic/jetpack-base-styles": "^0.6.44",
 		"@automattic/jetpack-components": "^0.69.0-alpha",
-		"@automattic/jetpack-connection": "^0.39.1",
+		"@automattic/jetpack-connection": "^0.39.2-alpha",
 		"@automattic/jetpack-script-data": "^0.3.0-alpha",
 		"@wordpress/api-fetch": "7.19.0",
 		"@wordpress/block-editor": "14.14.0",
