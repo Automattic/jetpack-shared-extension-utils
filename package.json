@@ -20,9 +20,9 @@
 	"dependencies": {
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-analytics": "^0.1.36",
-		"@automattic/jetpack-base-styles": "^0.7.0",
-		"@automattic/jetpack-components": "^0.72.3",
-		"@automattic/jetpack-connection": "^0.39.10",
+		"@automattic/jetpack-base-styles": "^0.7.1-alpha",
+		"@automattic/jetpack-components": "^0.72.4-alpha",
+		"@automattic/jetpack-connection": "^0.39.11-alpha",
 		"@automattic/jetpack-script-data": "^0.3.0",
 		"@wordpress/api-fetch": "7.21.0",
 		"@wordpress/block-editor": "14.16.0",
