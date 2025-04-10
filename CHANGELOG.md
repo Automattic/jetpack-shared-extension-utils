@@ -5,11 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.18.12-alpha] - unreleased
+## [0.19.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Adjust relative imports in TypeScript sources to use correct extensions after enabling TypeScript's new `rewriteRelativeImportExtensions` option.
 - Update dependencies.
 
 ## [0.18.11] - 2025-04-07
@@ -612,7 +613,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.18.12-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.11...0.18.12-alpha
+[0.19.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.11...0.19.0-alpha
 [0.18.11]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.10...0.18.11
 [0.18.10]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.9...0.18.10
 [0.18.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.8...0.18.9
