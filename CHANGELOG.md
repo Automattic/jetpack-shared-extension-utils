@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Adjust relative imports in TypeScript sources to use correct extensions after enabling TypeScript's new `rewriteRelativeImportExtensions` option.
 - Update dependencies.
 
+### Fixed
+- Linting: Use double colon notation for pseudo-element selectors.
+
 ## [0.18.11] - 2025-04-07
 ### Changed
 - Code: First pass of style coding standards. [#42734]
