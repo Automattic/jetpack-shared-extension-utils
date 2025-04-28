@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.19.1-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.19.1] - 2025-04-28
 ### Fixed
-- Linting: Fix more Stylelint violations.
+- Linting: Fix more Stylelint violations. [#43213]
 
 ## [0.19.0] - 2025-04-14
 ### Changed
@@ -620,7 +617,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.19.1-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.19.0...0.19.1-alpha
+[0.19.1]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.19.0...0.19.1
 [0.19.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.11...0.19.0
 [0.18.11]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.10...0.18.11
 [0.18.10]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.18.9...0.18.10
