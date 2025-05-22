@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Janitorial: Ensure functionality related to WoA site checking is clearer.
 
+### Changed
+- Update package dependencies.
+
 ## [0.20.1] - 2025-05-22
 ### Changed
 - Update dependencies. [#43068]
