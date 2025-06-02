@@ -5,13 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.20.3-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.20.3] - 2025-06-02
 ### Changed
-- sass: `@use` rather than `@import` for `@automattic/jetpack-base-styles/gutenberg-base-styles`.
-- Update package dependencies.
+- sass: `@use` rather than `@import` for `@automattic/jetpack-base-styles/gutenberg-base-styles`. [#43607]
+- Update package dependencies. [#43711]
 
 ## [0.20.2] - 2025-05-26
 ### Added
@@ -648,7 +645,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[0.20.3-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.20.2...0.20.3-alpha
+[0.20.3]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.20.2...0.20.3
 [0.20.2]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.20.1...0.20.2
 [0.20.1]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.20.0...0.20.1
 [0.20.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/0.19.3...0.20.0
