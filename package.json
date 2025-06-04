@@ -21,7 +21,7 @@
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-analytics": "^1.0.0",
 		"@automattic/jetpack-base-styles": "^1.0.0",
-		"@automattic/jetpack-components": "^1.0.0",
+		"@automattic/jetpack-components": "^1.1.0-alpha",
 		"@automattic/jetpack-connection": "^1.0.0",
 		"@automattic/jetpack-script-data": "^0.4.2",
 		"@wordpress/api-fetch": "7.24.0",
