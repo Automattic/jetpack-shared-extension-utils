@@ -23,7 +23,7 @@
 		"@automattic/jetpack-base-styles": "^1.0.0",
 		"@automattic/jetpack-components": "^1.1.0",
 		"@automattic/jetpack-connection": "^1.2.0",
-		"@automattic/jetpack-script-data": "^0.4.2",
+		"@automattic/jetpack-script-data": "^0.4.3-alpha",
 		"@wordpress/api-fetch": "7.24.0",
 		"@wordpress/block-editor": "14.19.0",
 		"@wordpress/components": "29.10.0",
