@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add hasFeatureFlag js function that can be added via the `jetpack_block_editor_feature_flags` filter
+
 ### Changed
 - Scripts: Changed imports for hosting checks.
 
