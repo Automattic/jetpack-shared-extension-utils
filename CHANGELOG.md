@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.3.9-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
+## [1.3.9] - 2025-08-04
+### Changed
+- Internal updates.
 
 ## [1.3.8] - 2025-07-30
 ### Changed
@@ -739,7 +739,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[1.3.9-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.8...1.3.9-alpha
+[1.3.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.8...1.3.9
 [1.3.8]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.7...1.3.8
 [1.3.7]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.6...1.3.7
 [1.3.6]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.5...1.3.6
