@@ -12,8 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Jetpack Logo: add support for customized title in shared component.
 
+## [1.3.28] - 2025-12-01
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#46143]
 
 ## [1.3.27] - 2025-11-20
 ### Fixed
@@ -821,7 +822,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[1.4.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.27...1.4.0-alpha
+[1.4.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.28...1.4.0-alpha
+[1.3.28]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.27...1.3.28
 [1.3.27]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.26...1.3.27
 [1.3.26]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.25...1.3.26
 [1.3.25]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.24...1.3.25
