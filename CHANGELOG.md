@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.4.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.4.0] - 2025-12-08
 ### Added
-- Jetpack Logo: add support for customized title in shared component.
+- Jetpack Logo: Add support for customized title in shared component. [#46162]
 
 ## [1.3.28] - 2025-12-01
 ### Changed
@@ -822,7 +819,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[1.4.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.28...1.4.0-alpha
+[1.4.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.28...1.4.0
 [1.3.28]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.27...1.3.28
 [1.3.27]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.26...1.3.27
 [1.3.26]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.3.25...1.3.26
