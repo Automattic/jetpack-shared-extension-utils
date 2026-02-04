@@ -20,6 +20,7 @@
 		},
 		"./components": "./src/components/index.js",
 		"./icons": "./src/icons.js",
+		"./site-type-utils": "./src/site-type-utils.js",
 		"./store/wordpress-com": "./src/store/wordpress-com/index.ts",
 		"./store/wordpress-com/types": "./src/store/wordpress-com/types.ts"
 	},
@@ -32,8 +33,8 @@
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-analytics": "^1.0.7",
 		"@automattic/jetpack-base-styles": "^1.0.15",
-		"@automattic/jetpack-components": "^1.4.11",
-		"@automattic/jetpack-connection": "^1.4.32",
+		"@automattic/jetpack-components": "^1.4.12-alpha",
+		"@automattic/jetpack-connection": "^1.4.33-alpha",
 		"@automattic/jetpack-script-data": "^0.5.4",
 		"@types/jest": "30.0.0",
 		"@wordpress/api-fetch": "7.39.0",
