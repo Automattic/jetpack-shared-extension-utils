@@ -33,7 +33,7 @@
 		"@automattic/jetpack-analytics": "^1.0.8",
 		"@automattic/jetpack-base-styles": "^1.0.18-alpha",
 		"@automattic/jetpack-components": "^1.4.16-alpha",
-		"@automattic/jetpack-connection": "^1.4.36",
+		"@automattic/jetpack-connection": "^1.4.37-alpha",
 		"@automattic/jetpack-script-data": "^0.5.5",
 		"@types/jest": "30.0.0",
 		"@wordpress/api-fetch": "7.39.0",
