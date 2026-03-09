@@ -5,15 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.5.3-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.5.3] - 2026-03-09
 ### Changed
-- Switch to Native TypeScript compiler based on Go.
+- Switch to Native TypeScript compiler based on Go. [#47375]
 
 ### Fixed
-- Fix TS type errors detected by tsgo.
+- Fix TS type errors detected by tsgo. [#47423]
 
 ## [1.5.2] - 2026-03-02
 ### Changed
@@ -896,7 +893,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[1.5.3-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.2...1.5.3-alpha
+[1.5.3]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.2...1.5.3
 [1.5.2]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.1...1.5.2
 [1.5.1]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.0...1.5.1
 [1.5.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.4.13...1.5.0
