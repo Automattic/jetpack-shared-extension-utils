@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.5.13-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.5.13] - 2026-05-11
 ### Changed
-- Components: Use Link from `@wordpress/ui` instead of ExternalLink.
+- Components: Use Link from `@wordpress/ui` instead of ExternalLink. [#48529]
 
 ## [1.5.12] - 2026-05-04
 ### Changed
@@ -936,7 +933,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[1.5.13-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.12...1.5.13-alpha
+[1.5.13]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.12...1.5.13
 [1.5.12]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.11...1.5.12
 [1.5.11]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.10...1.5.11
 [1.5.10]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.9...1.5.10
