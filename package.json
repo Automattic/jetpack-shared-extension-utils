@@ -31,10 +31,10 @@
 	},
 	"dependencies": {
 		"@automattic/color-studio": "4.1.0",
-		"@automattic/jetpack-analytics": "^1.0.14-alpha",
+		"@automattic/jetpack-analytics": "^1.0.14",
 		"@automattic/jetpack-base-styles": "^1.2.5",
-		"@automattic/jetpack-components": "^1.12.3-alpha",
-		"@automattic/jetpack-connection": "^1.4.56-alpha",
+		"@automattic/jetpack-components": "^1.12.3",
+		"@automattic/jetpack-connection": "^1.4.56",
 		"@automattic/jetpack-script-data": "^0.6.4",
 		"@types/jest": "30.0.0",
 		"@wordpress/api-fetch": "7.46.0",
