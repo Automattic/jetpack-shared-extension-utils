@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Update package dependencies.
+
 ## [2.0.0] - 2026-06-15
 ### Removed
 - Remove `react-native` export condition. [#49526]
@@ -974,6 +981,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Core: prepare utility for release
 
+[2.0.1-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.0...2.0.1-alpha
 [2.0.0]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.22...2.0.0
 [1.5.22]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.21...1.5.22
 [1.5.21]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/1.5.20...1.5.21
