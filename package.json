@@ -33,6 +33,7 @@
 		"@automattic/jetpack-components": "^1.12.9-alpha",
 		"@automattic/jetpack-connection": "^1.4.62-alpha",
 		"@automattic/jetpack-script-data": "^0.6.4",
+		"@automattic/jetpack-shared-stores": "^0.1.0-alpha",
 		"@types/jest": "30.0.0",
 		"@wordpress/api-fetch": "7.48.1",
 		"@wordpress/block-editor": "15.21.1",
