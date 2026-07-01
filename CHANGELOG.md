@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Refactor: Use store objects instead of string IDs
+- Update package dependencies.
 
 ## [2.0.5] - 2026-06-26
 ### Changed
