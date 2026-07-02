@@ -31,7 +31,7 @@
 		"@automattic/jetpack-analytics": "^1.0.15",
 		"@automattic/jetpack-base-styles": "^1.2.8-alpha",
 		"@automattic/jetpack-components": "^1.12.14-alpha",
-		"@automattic/jetpack-connection": "^1.4.67-alpha",
+		"@automattic/jetpack-connection": "^1.5.0-alpha",
 		"@automattic/jetpack-script-data": "^0.6.4",
 		"@automattic/jetpack-shared-stores": "^0.1.3-alpha",
 		"@types/jest": "30.0.0",
