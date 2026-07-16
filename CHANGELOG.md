@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- Upgrade nudge: replace `.wp-block` CSS class with `.jetpack-nudge-canvas` to avoid Gutenberg iframe compatibility warnings in the block editor.
+
 ## [2.0.8] - 2026-07-13
 ### Changed
 - Internal updates.
