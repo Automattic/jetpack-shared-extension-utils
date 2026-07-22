@@ -5,15 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.9-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.0.9] - 2026-07-20
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#50510] [#50529]
 
 ### Fixed
-- Upgrade nudge: replace `.wp-block` CSS class with `.jetpack-nudge-canvas` to avoid Gutenberg iframe compatibility warnings in the block editor.
+- Upgrade nudge: Replace `.wp-block` CSS class with `.jetpack-nudge-canvas` to avoid Gutenberg iframe compatibility warnings in the block editor. [#50260]
 
 ## [2.0.8] - 2026-07-13
 ### Changed
@@ -1018,7 +1015,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[2.0.9-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.8...2.0.9-alpha
+[2.0.9]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.8...2.0.9
 [2.0.8]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.7...2.0.8
 [2.0.7]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.6...2.0.7
 [2.0.6]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.5...2.0.6
