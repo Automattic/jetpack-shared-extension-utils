@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Add skipPhotonDomain to the typed Jetpack script data flags.
 - Update package dependencies.
 
 ## [2.0.12] - 2026-08-03
