@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- WpcomSupportLink: Mark the `supportPostId` prop as optional in the type definition.
+
 ## [2.0.22] - 2026-09-15
 ### Changed
 - Update package dependencies. [#52297]
