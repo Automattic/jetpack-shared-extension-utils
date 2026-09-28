@@ -50,7 +50,7 @@
 		"@wordpress/url": "4.55.0",
 		"clsx": "2.1.1",
 		"debug": "4.4.3",
-		"social-logos": "^3.3.19"
+		"social-logos": "^3.4.0-alpha"
 	},
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
