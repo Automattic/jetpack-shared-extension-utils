@@ -5,13 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.29-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.0.29] - 2026-10-05
 ### Changed
-- Update the Pexels icon to the current Pexels logo.
-- Upgrade nudge: Use the admin theme color for the Upgrade button instead of pink.
+- Update the Pexels icon to the current Pexels logo. [#52890]
+- Upgrade nudge: Use the admin theme color for the Upgrade button instead of pink. [#52974]
 
 ## [2.0.28] - 2026-09-29
 ### Changed
@@ -1103,7 +1100,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[2.0.29-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.28...2.0.29-alpha
+[2.0.29]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.28...2.0.29
 [2.0.28]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.27...2.0.28
 [2.0.27]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.26...2.0.27
 [2.0.26]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.25...2.0.26
