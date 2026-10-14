@@ -12,6 +12,10 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add getJetpackAiManageUrl(), the URL where Jetpack AI is managed on the site.
 
+## [2.0.31] - 2026-10-12
+### Changed
+- Update dependencies. [#53301]
+
 ## [2.0.30] - 2026-10-07
 ### Changed
 - Update dependencies. [#53250]
@@ -1111,7 +1115,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Core: prepare utility for release
 
-[2.1.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.30...2.1.0-alpha
+[2.1.0-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.31...2.1.0-alpha
+[2.0.31]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.30...2.0.31
 [2.0.30]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.29...2.0.30
 [2.0.29]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.28...2.0.29
 [2.0.28]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.0.27...2.0.28
