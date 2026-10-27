@@ -29,7 +29,7 @@
 	"dependencies": {
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-analytics": "^1.0.18",
-		"@automattic/jetpack-base-styles": "^1.2.19",
+		"@automattic/jetpack-base-styles": "^1.2.20-alpha",
 		"@automattic/jetpack-components": "^6.0.1-alpha",
 		"@automattic/jetpack-connection": "^2.15.0-alpha",
 		"@automattic/jetpack-script-data": "^0.6.11",
