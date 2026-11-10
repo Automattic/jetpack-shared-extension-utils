@@ -30,7 +30,7 @@
 	"dependencies": {
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-analytics": "^1.0.18",
-		"@automattic/jetpack-components": "^6.2.1",
+		"@automattic/jetpack-components": "^6.2.2-alpha",
 		"@automattic/jetpack-connection": "^2.19.0-alpha",
 		"@automattic/jetpack-script-data": "^0.6.12",
 		"@automattic/jetpack-shared-stores": "^0.2.24-alpha",
@@ -55,8 +55,8 @@
 	},
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.29.7",
-		"@babel/runtime": "7.29.10",
+		"@babel/core": "7.29.13",
+		"@babel/runtime": "7.29.13",
 		"@testing-library/dom": "10.4.2",
 		"@testing-library/react": "16.3.3",
 		"@testing-library/user-event": "14.6.8",
