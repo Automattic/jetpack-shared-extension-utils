@@ -31,7 +31,7 @@
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-analytics": "^1.0.18",
 		"@automattic/jetpack-components": "^7.1.1-alpha",
-		"@automattic/jetpack-connection": "^2.20.0",
+		"@automattic/jetpack-connection": "^2.20.1-alpha",
 		"@automattic/jetpack-script-data": "^0.7.0",
 		"@automattic/jetpack-shared-stores": "^0.2.25",
 		"@types/jest": "30.0.0",
