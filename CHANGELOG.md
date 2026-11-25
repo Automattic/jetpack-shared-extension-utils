@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.1.13-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Show the free-plan upgrade nudge on the Video block only when uploading a video, not over a video that already plays.
+
 ## [2.1.12] - 2026-11-23
 ### Changed
 - Update dependencies.
@@ -1160,6 +1167,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Core: prepare utility for release
 
+[2.1.13-alpha]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.1.12...2.1.13-alpha
 [2.1.12]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.1.11...2.1.12
 [2.1.11]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.1.10...2.1.11
 [2.1.10]: https://github.com/Automattic/jetpack-shared-extension-utils/compare/2.1.9...2.1.10
